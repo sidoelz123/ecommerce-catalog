@@ -1,7 +1,23 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<a name="readme-top"></a>
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+<h3 align="center">Ecommerce Catalog</h3>
+
+  <p align="center">
+   Final Project Assignment - Ecommerce Catalog
+    <br />
+    <a href="https://github.com/sidoelz123/ecommerce-catalog"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="toko-ijaa.netlify.app">View Demo</a>
+    ·
+    <a href="https://github.com/sidoelz123/ecommerce-catalog/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/sidoelz123/ecommerce-catalog/issues">Request Feature</a>
+  </p>
+</div>
