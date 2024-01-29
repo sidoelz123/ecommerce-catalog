@@ -14,7 +14,7 @@
     <a href="https://github.com/sidoelz123/ecommerce-catalog"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="toko-ijaa.netlify.app">View Demo</a>
+    <a href="https://toko-ijaa.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/sidoelz123/ecommerce-catalog/issues">Report Bug</a>
     ·
